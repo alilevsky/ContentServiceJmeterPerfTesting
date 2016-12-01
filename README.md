@@ -4,6 +4,6 @@ Steps to Install:
 2. lib/ folder should be copied into root folder of jmeter instance
 
 
-jmxFiles is the fodler where all tests are stored
+jmxFiles is the foler where all tests are stored
 
 
