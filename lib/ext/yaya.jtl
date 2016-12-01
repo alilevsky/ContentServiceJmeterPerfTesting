@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1474642600966,5078,Loading content,200,OK,gladio_page_test 1-2,text,true,,40565,10,10,1577,0
+1474642600766,5495,Loading content,200,OK,gladio_page_test 1-1,text,true,,40682,9,9,1812,0
+1474642601166,5519,Loading content,200,OK,gladio_page_test 1-3,text,true,,40758,8,8,1891,0
+1474642601366,6021,Loading content,200,OK,gladio_page_test 1-4,text,true,,40400,7,7,2020,0
+1474642601567,6282,Loading content,200,OK,gladio_page_test 1-5,text,true,,40587,6,6,2402,0
+1474642601769,6504,Loading content,200,OK,gladio_page_test 1-6,text,true,,39881,5,5,3713,0
+1474642602167,6189,Loading content,200,OK,gladio_page_test 1-8,text,true,,39704,4,4,3503,0
+1474642601967,6422,Loading content,200,OK,gladio_page_test 1-7,text,true,,39605,3,3,3629,0
+1474642602366,6461,Loading content,200,OK,gladio_page_test 1-9,text,true,,39370,2,2,4179,0
+1474642602568,6285,Loading content,200,OK,gladio_page_test 1-10,text,true,,39348,1,1,4112,0
